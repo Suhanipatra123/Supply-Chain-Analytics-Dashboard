@@ -12,7 +12,7 @@ This project helps businesses track:
 
 The dashboard transforms raw supply chain data into meaningful business insights for better decision-making and operational improvement.
 
----
+
 
 # 🚀 Project Objectives
 
@@ -23,7 +23,7 @@ The dashboard transforms raw supply chain data into meaningful business insights
 ✅ Identify risk areas in the supply chain  
 ✅ Improve business visibility using interactive dashboards  
 
----
+
 
 # 🛠️ Tools & Technologies Used
 
@@ -33,7 +33,7 @@ The dashboard transforms raw supply chain data into meaningful business insights
 - **Excel**
 - **Data Cleaning & Data Modeling**
 
----
+
 
 # 📂 Project Files
 
@@ -46,7 +46,7 @@ The dashboard transforms raw supply chain data into meaningful business insights
 | `Dataset/` | Raw Dataset Files |
 | `Images/` | Dashboard Screenshots |
 
----
+
 
 # 📊 Dashboard Overview
 
@@ -67,11 +67,7 @@ The dashboard provides a complete overview of:
 - Total Revenue
 - Total Profit
 
----
 
-# 📈 Dashboard Screenshots
-
----
 
 # 🏠 Main Dashboard Overview
 
@@ -87,7 +83,7 @@ The dashboard provides a complete overview of:
 
 🔗 **Live Dashboard:** https://app.powerbi.com/groups/76a50c68-86cc-4e5a-adac-636ebd3a6a73/reports/e7adc13a-6225-49db-87b3-bf733132a1b6/1606792b7781602b0618?experience=power-bi
 
----
+
 
 # 📦 Inventory Analysis Report
 
@@ -108,7 +104,6 @@ The dashboard provides a complete overview of:
 ![Inventory Analysis](Images/Inventory%20Performance(1).png)
 
 
----
 
 # 🚚 Delivery Performance Report
 
@@ -128,7 +123,6 @@ The dashboard provides a complete overview of:
 
 ![Delivery Performance](Images/Delivery%20Performance(1).png)
 
----
 
 # 🤝 Supplier Performance Report
 
@@ -148,7 +142,6 @@ The dashboard provides a complete overview of:
 
 ![Supplier Performance](Images/Supplier%20Performance(1).png)
 
----
 
 # 📌 Key Business Insights
 
@@ -159,7 +152,6 @@ The dashboard provides a complete overview of:
 ⚠️ Delay reasons highlighted transportation and supplier issues  
 📊 Real-time dashboards improved visibility and monitoring  
 
----
 
 # 🎯 Learning Outcomes
 
@@ -171,14 +163,13 @@ Through this project, I learned:
 - Business Insight Generation
 - Interactive Data Visualization
 
----
 
 # 👩‍💻 Author
 
 ### **Suhani Patra**
 Aspiring Data Analyst | Power BI Enthusiast | SQL & Python Learner
 
----
+
 
 # ⭐ If You Like This Project
 
@@ -187,7 +178,6 @@ Please consider:
 - 🍴 Forking the project
 - 📢 Sharing feedback
 
----
 
 # 📌 Tags
 
