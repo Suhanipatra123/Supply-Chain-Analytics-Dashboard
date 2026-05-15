@@ -79,7 +79,7 @@ The dashboard provides a complete overview of:
 - Supplier Risk Tracking
 - KPI Monitoring
 
-![Dashboard Overview](Images/Dashboard(Overview).png)
+![Dashboard Overview](Dashboard(Overview).png)
 
 🔗 **Live Dashboard:** https://app.powerbi.com/groups/76a50c68-86cc-4e5a-adac-636ebd3a6a73/reports/e7adc13a-6225-49db-87b3-bf733132a1b6/1606792b7781602b0618?experience=power-bi
 
@@ -101,7 +101,7 @@ The dashboard provides a complete overview of:
 ✅ Inventory trend peaked during April-May  
 ✅ Some categories showed loss performance  
 
-![Inventory Analysis](Images/Inventory%20Performance(1).png)
+![Inventory Analysis](Images/Inventory%20Performance.png)
 
 
 
@@ -121,7 +121,7 @@ The dashboard provides a complete overview of:
 ✅ Mumbai & Kolkata performed better in delivery efficiency  
 ✅ Average delivery delay reached 28.71 days  
 
-![Delivery Performance](Images/Delivery%20Performance(1).png)
+![Delivery Performance](Images/Delivery%20Performance.png)
 
 
 # 🤝 Supplier Performance Report
@@ -140,7 +140,7 @@ The dashboard provides a complete overview of:
 ✅ Transport and supplier issues caused major delays  
 ✅ High-risk suppliers require performance monitoring  
 
-![Supplier Performance](Images/Supplier%20Performance(1).png)
+![Supplier Performance](Images/Supplier%20Performance.png)
 
 
 # 📌 Key Business Insights
